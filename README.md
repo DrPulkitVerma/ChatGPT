@@ -1,2 +1,2 @@
-# OperatingModel
-What is operating model?
+# ChatGPT
+What can we do here?
